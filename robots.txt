@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beabit.github.io/vMg/sitemap.vMg.gz
